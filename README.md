@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=160em src="https://github-readme-stats.vercel.app/api?username=euvitordev&show_icons=true&theme=dark&" />
+    <img height=170em src="https://github-readme-stats.vercel.app/api?username=euvitordev&show_icons=true&theme=dark&" />
   </a>
   <a href="https://github.com/euvitordev/github-readme-stats">
-    <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitordev&layout=compact&theme=dark" />
+    <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitordev&layout=compact&theme=dark" />
   </a>
 </div>
 
