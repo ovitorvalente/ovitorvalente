@@ -21,7 +21,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@euvitordev)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vitorlucas@gmail.com)
 
-<br>
 
 ## Tecnologias que eu uso no dia a dia
 
