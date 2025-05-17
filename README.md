@@ -12,8 +12,10 @@ Se envolve código, design de sistemas ou performance... tamo junto! 🚀
 
 ### 📈 Estatísticas do GitHub
 
-[![Vitor Valente GitHub stats](https://github-readme-stats.vercel.app/api?username=ovitorvalente&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)](https://github.com/ovitorvalente/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorvalente\&layout=compact&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)
+<div align="start">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovitorvalente&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorvalente&layout=compact&locale=pt-br&show_icons=true&theme=transparent" />
+</div>
 
 <br/>
 
