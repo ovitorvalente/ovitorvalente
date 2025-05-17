@@ -1,42 +1,54 @@
 # 👨🏻‍💻 Vitor Valente
 
-**`Desenvolvedo de Software`**
+**`Desenvolvedor de Software | Estudante de Ciência da Computação`**
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ovitorvalente&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ovitorvalente&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ovitrovalente&show_icons=true" />
-</picture>
+Fala aí! Sou o Vitor, desenvolvedor de software e estudante de Ciência da Computação. Trabalho diariamente com tecnologias web modernas e adoro transformar ideias em código.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitrovalente&layout=compact)
+Gosto de escrever soluções limpas, entender o que acontece por baixo dos panos e explorar a stack do frontend ao backend. Curto desafios, aprender coisas novas e trocar conhecimento com a comunidade.
 
-## Minhas Redes Sociais
+Se envolve código, design de sistemas ou performance... tamo junto! 🚀
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euvitordev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euvtitordev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euvitordev)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@euvitordev)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vitorlucas@gmail.com)
+<br/>
 
+### 📈 Estatísticas do GitHub
 
-## Tecnologias que eu uso no dia a dia
+[![Vitor Valente GitHub stats](https://github-readme-stats.vercel.app/api?username=ovitorvalente&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)](https://github.com/ovitorvalente/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorvalente\&layout=compact&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true)
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+<br/>
+
+## 🌐 Minhas Redes Sociais
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ovitorvalente@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ovitorvalente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ovitorvalente/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://twitter.com/eovitorvalentevitordev)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)
+
+<br/>
+
+## 🛠️ Tecnologias que uso no dia a dia
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge\&logo=radix-ui\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge\&logo=fastify\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux\&logoColor=fff\&style=for-the-badge)
+
+<br/>
+
+## 🐍 Contribuições GitHub
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake.svg">
 </picture>
