@@ -1,17 +1,20 @@
-# Olá 👋, prazer em conhecê-los! Sou o Vitor Lucas.
+# 👨🏻‍💻 Vitor Valente
 
-<br>
+**`Desenvolvedo de Software`**
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170em src="https://github-readme-stats.vercel.app/api?username=euvitordev&show_icons=true&theme=dark&" />
-  </a>
-  <a href="https://github.com/euvitordev/github-readme-stats">
-    <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitordev&layout=compact&theme=dark" />
-  </a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ovitorvalente&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ovitorvalente&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ovitrovalente&show_icons=true" />
+</picture>
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitrovalente&layout=compact)
 
 ## Minhas Redes Sociais
 
