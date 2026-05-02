@@ -1,56 +1,126 @@
 # 👨🏻‍💻 Vitor Valente
 
-**`Desenvolvedor de Software | Estudante de Ciência da Computação`**
+**Engenheiro de Software | Backend • Sistemas Distribuídos • IA em produção**
 
-Fala aí! Sou o Vitor, desenvolvedor de software e estudante de Ciência da Computação. Trabalho diariamente com tecnologias web modernas e adoro transformar ideias em código.
+Construo sistemas que resolvem problemas reais.
 
-Gosto de escrever soluções limpas, entender o que acontece por baixo dos panos e explorar a stack do frontend ao backend. Curto desafios, aprender coisas novas e trocar conhecimento com a comunidade.
+Hoje trabalho com APIs, integrações com ERP, mensageria assíncrona e agentes com IA rodando em produção. Meu foco está em backend, arquitetura e sistemas que precisam funcionar de verdade sob carga, concorrência e falhas. Tenho forte interesse em arquitetura de sistemas, backend de alta performance e uso de IA como parte de sistemas críticos, não apenas como feature.
 
-Se envolve código, design de sistemas ou performance... tamo junto! 🚀
+---
 
-<br/>
+## 🚀 No que estou focado
 
-### 📈 Estatísticas do GitHub
+- Sistemas distribuídos e processamento assíncrono  
+- Agentes autônomos com IA (LLM + RAG + workflows)  
+- Backend escalável e resiliente  
+- Integrações com ERPs e sistemas legados  
 
-<div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovitorvalente&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorvalente&layout=compact&locale=pt-br&show_icons=true&theme=transparent" />
-</div>
+---
 
-<br/>
+## 🧠 Projetos em destaque
 
-## 🌐 Minhas Redes Sociais
+### Revenly: Plataforma SaaS com agentes autônomos
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ovitorvalente@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ovitorvalente)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ovitorvalente/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://twitter.com/eovitorvalentevitordev)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)
+Sistema autoral em desenvolvimento que funciona como uma plataforma de agentes autônomos multi-função para empresas.
 
-<br/>
+A proposta é substituir processos manuais e atendimentos repetitivos por agentes inteligentes capazes de executar tarefas, responder usuários, integrar sistemas e operar workflows completos.
 
-## 🛠️ Tecnologias que uso no dia a dia
+**Principais pontos:**
+- Arquitetura SaaS multi-tenant  
+- Agentes autônomos com IA para múltiplos contextos (suporte, cobrança, operação)  
+- Orquestração de workflows com regras + IA  
+- Integrações com APIs externas, webhooks e sistemas internos  
+- Foco em automação operacional e redução de custo  
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge\&logo=radix-ui\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge\&logo=fastify\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux\&logoColor=fff\&style=for-the-badge)
+---
 
-<br/>
+### QuickPay: Agente autônomo de negociação
 
-## 🐍 Contribuições GitHub
+Sistema que automatiza negociações de cobrança via WhatsApp, substituindo o atendimento humano.
 
-<picture align="center">
+**Principais pontos:**
+- Processamento assíncrono com filas (Redis + BullMQ)  
+- Controle de estado distribuído por conversa  
+- Integração com ERP legado (IXC)  
+- Roteamento híbrido (regras + IA)  
+- RAG com base de conhecimento e histórico  
+- Idempotência e prevenção de race conditions  
+
+**Arquitetura simplificada:**
+
+Webhook → Fila → Worker → Estado (Redis) → IA → Resposta → Persistência
+
+Sistema projetado para operar 24/7 com múltiplas conversas simultâneas, garantindo consistência e confiabilidade.
+
+---
+
+### Orzy: SaaS de orçamentos
+
+Plataforma multi-tenant para gestão de orçamentos com fluxo completo de aprovação.
+
+- Next.js + TypeScript + PostgreSQL (Supabase)  
+- Row Level Security e multi-tenant  
+- Sistema de planos e regras de negócio  
+- Integração com pagamentos recorrentes  
+- UX mobile-first com foco em conversão  
+
+---
+
+### ⚙️ GitLoom: CLI em Go
+
+Ferramenta para padronização de commits e automação de fluxo de desenvolvimento.
+
+- CLI multiplataforma  
+- Automação via GitHub Actions  
+- Foco em produtividade e consistência  
+
+👉 [Ver projeto](https://github.com/ovitorvalente/git-loom)
+
+---
+
+## 🛠️ Stack
+
+**Backend**  
+Node.js • TypeScript • Go • NestJS • Fastify • Express  
+
+**Frontend**  
+React • Next.js • Vite • Angular  
+
+**Dados**  
+PostgreSQL • MySQL • SQL Server • MongoDB • Redis  
+
+**Arquitetura**  
+Filas • Workers • Event-driven • Idempotência • Concorrência  
+
+**IA**  
+OpenAI • LangChain • RAG • Engenharia de Prompt  
+
+**Infraestrutura**  
+Docker • CI/CD • Linux • AWS  
+
+---
+
+## 🧠 Como penso engenharia
+
+- Simplicidade ganha de complexidade desnecessária  
+- Sistema precisa funcionar sob falha, não só no cenário ideal  
+- IA é ferramenta, não solução mágica  
+- Código bom é aquele que outro dev entende rápido  
+- Resolver problema de negócio vem antes da tecnologia  
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovitorvalente@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovitorvalente/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovitorvalente)
+
+---
+
+## 🐍 Atividade no GitHub
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ovitorvalente/ovitorvalente/output/github-contribution-grid-snake.svg">
 </picture>
